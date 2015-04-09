@@ -12,10 +12,10 @@
   // ***********************
   // Data Members          *
   // ***********************
-  private static $database = "CIS355alpero";
+  private static $database = "CIS355raldubay";
   private static $server   = "localhost";
-  private static $username = "CIS355alpero";
-  private static $password = "Power135";
+  private static $username = "CIS355raldubay";
+  private static $password = "Mohammed4";
   
   // ***********************
   // Database Connection   *

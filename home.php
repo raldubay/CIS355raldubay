@@ -20,7 +20,7 @@
  addHeader();
  
  // Require Active Session
- requireSession()
+ requireSession();
  
  // Displays a link that directs back to the homepage.
  function backButton() {
